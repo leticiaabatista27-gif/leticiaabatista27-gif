@@ -1,29 +1,22 @@
-Oii! Tudo bem? Me chamo Leícia B. 👋💗
+Oii! Tudo bem?? Eu sou a Letícia B.🫧
 
-✨ Seja bem-vindo(a) ao meu perfil!
+✨ Seja bem-vindo(a) ao meu GitHub!
 
-Sou estudante e entusiasta da tecnologia, apaixonada pelo universo da programação e do desenvolvimento de sistemas. Estou sempre buscando aprender coisas novas, desenvolver minha lógica e aprimorar minhas habilidades.
+Sou estudante de Desenvolvimento de Sistemas e estou iniciando minha jornada no mundo da tecnologia e da programação.
 
-🧠 Sobre mim
-🔭 Explorando o mundo do desenvolvimento de sistemas.
-🌱 Atualmente aprendendo lógica de programação e Python.
-💻 Tenho interesse em desenvolvimento de software.
-🧩 Gosto de desafios, raciocínio lógico e resolução de problemas.
-🎯 Buscando evoluir cada vez mais na área da tecnologia.
-🛠️ Tecnologias e ferramentas
-🐍 Python
-🧠 Lógica de Programação
-💻 Algoritmos
-🌐 HTML e CSS
-⚡ JavaScript
-🗄️ Banco de Dados
-🔧 Git e GitHub
-📚 Áreas de interesse
-Desenvolvimento de Sistemas
-Desenvolvimento Web
-Engenharia de Software
-Banco de Dados
-Análise e resolução de problemas
-💗 Sobre minha jornada
+💻 Atualmente estou aprendendo:
 
-Acredito que cada linha de código é uma oportunidade de aprender algo novo. Estou aqui para compartilhar minha evolução, meus projetos e minhas conquistas.
+- Lógica de programação
+- Python
+- Desenvolvimento de Sistemas
+
+🎯 Meus objetivos:
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver projetos e adquirir experiência.
+- Aprender novas tecnologias.
+- Crescer profissionalmente na área de TI.
+
+🌷 Acredito que cada linha de código é uma oportunidade de aprender algo novo. Estou aqui para compartilhar minha evolução, meus projetos e minhas conquistas!
+
+Obrigada pela visita!^^
