@@ -1,16 +1,29 @@
-## Hi there 👋
+Oii! Tudo bem? Me chamo Leícia B. 👋💗
 
-<!--
-**leticiaabatista27-gif/leticiaabatista27-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Seja bem-vindo(a) ao meu perfil!
 
-Here are some ideas to get you started:
+Sou estudante e entusiasta da tecnologia, apaixonada pelo universo da programação e do desenvolvimento de sistemas. Estou sempre buscando aprender coisas novas, desenvolver minha lógica e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mim
+🔭 Explorando o mundo do desenvolvimento de sistemas.
+🌱 Atualmente aprendendo lógica de programação e Python.
+💻 Tenho interesse em desenvolvimento de software.
+🧩 Gosto de desafios, raciocínio lógico e resolução de problemas.
+🎯 Buscando evoluir cada vez mais na área da tecnologia.
+🛠️ Tecnologias e ferramentas
+🐍 Python
+🧠 Lógica de Programação
+💻 Algoritmos
+🌐 HTML e CSS
+⚡ JavaScript
+🗄️ Banco de Dados
+🔧 Git e GitHub
+📚 Áreas de interesse
+Desenvolvimento de Sistemas
+Desenvolvimento Web
+Engenharia de Software
+Banco de Dados
+Análise e resolução de problemas
+💗 Sobre minha jornada
+
+Acredito que cada linha de código é uma oportunidade de aprender algo novo. Estou aqui para compartilhar minha evolução, meus projetos e minhas conquistas.
